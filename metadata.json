@@ -1,0 +1,6 @@
+{
+  "name": "RESQ",
+  "description": "AI-Powered Citizen Safety and Emergency Response Platform with multi-trigger SOS, live tracking, evidence vault, and AI incident intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
